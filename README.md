@@ -4,7 +4,7 @@ Interaktywny dashboard analityczny w Streamlit porównujący pogodę w 10
 największych polskich miastach: temperatury, opady, wiatr, amplitudy dobowe
 i sezonowość.
 
-**Działająca aplikacja:** https://TODO.streamlit.app *(link po deploymencie)*
+**Działająca aplikacja:** https://bigdataprojekt-janrudowski.streamlit.app
 
 ## Co robi aplikacja
 
